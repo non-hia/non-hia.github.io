@@ -47,4 +47,4 @@ git config --global user.name <ユーザ名>
 ```
 
 ## 参考サイト
-- [Jekyll](https://jekyllrb.com/docs/installation/ubuntu/)
+- [Jekyll](https://jekyllrb.com/docs/installation/ubuntu/){:target="_blank"}

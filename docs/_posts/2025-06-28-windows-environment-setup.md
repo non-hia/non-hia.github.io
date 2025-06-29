@@ -18,14 +18,14 @@ wsl --install
 ```
 
 ### Docker Desktop
-[ここ](https://www.docker.com/ja-jp/get-started/)からインストーラをダウンロードして、インストールする。
+[ここ](https://www.docker.com/ja-jp/get-started/){:target="_blank"} からインストーラをダウンロードして、インストールする。
 
 ### VS Code
-[ここ](https://code.visualstudio.com/download)からインストーラをダウンロードして。インストールする。
+[ここ](https://code.visualstudio.com/download){:target="_blank"} からインストーラをダウンロードして。インストールする。
 
 インストール後、VS Codeを起動して、拡張機能``` WSL ```をインストールする。
 
 完了後、Windowsを再起動する。
 
 ## 参考サイト
-- [WSL2](https://learn.microsoft.com/ja-jp/windows/wsl/install)
+- [WSL2](https://learn.microsoft.com/ja-jp/windows/wsl/install){:target="_blank"}

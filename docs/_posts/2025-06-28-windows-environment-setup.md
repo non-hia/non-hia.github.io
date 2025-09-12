@@ -11,9 +11,9 @@ tags:   WSL Docker VSCode
 ## インストール
 
 ### WSL2
-コマンドプロンプトを「管理者として実行」で起動して、以下のコマンドを実行する。
+PowerShellを「管理者として実行」で起動して、以下のコマンドを実行する。
 
-```bash
+```powershell
 wsl --install
 ```
 

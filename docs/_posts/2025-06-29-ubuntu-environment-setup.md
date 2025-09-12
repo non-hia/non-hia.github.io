@@ -9,7 +9,7 @@ tags:   Ubuntu Jekyll Git
 - [Windows環境構築]({% post_url 2025-06-28-windows-environment-setup %})
 - Ubuntu上で、以下のコマンドを実行する。
     ```bash
-    sudo apt-get update
+    sudo apt update
     ```
 
 ## インストール
@@ -17,7 +17,7 @@ tags:   Ubuntu Jekyll Git
 ### Jekyll
 Rubyと必要なパッケージをインストールする。
 ```bash
-sudo apt-get install ruby-full build-essential zlib1g-dev
+sudo apt install ruby-full build-essential zlib1g-dev
 ```
 .bashrcに設定を追加するため、以下のコマンドを実行する。
 ```bash
@@ -38,7 +38,7 @@ git --version
 ```
 インストールされていない場合、以下のコマンドでインストールする。
 ```bash
-sudo apt-get git
+sudo apt git
 ```
 以下のコマンドで、```user.email```と```user.name```を設定する。
 ```bash
